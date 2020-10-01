@@ -23,11 +23,13 @@ import prefuse.util.ColorLib;
 import prefuse.visual.VisualItem;
 
 /**
+ *
  * Example from
  *
  * http://prefuse.org/doc/manual/introduction/example/
  *
  * @author sebasjm at computer dot org
+ *
  */
 public class Example {
 
